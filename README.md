@@ -4,8 +4,7 @@
 
 Javascript/Typescript Developer 
 
-👯 I’m looking to collaborate on startups
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mateusz-kuriata-mkuriata/)
+📫 LinkedIn: [Linkedin](https://www.linkedin.com/in/mateusz-kuriata-mkuriata/)
 ____
 <!--
 ### Skills
